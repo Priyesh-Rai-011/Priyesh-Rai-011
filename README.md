@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priyesh-Rai-011
 - 👀 I’m interested in ... web development(HTML, CSS, JAVASCRIPT), java
-- 🌱 I’m currently learning ... JAVA, Web Development
+- 🌱 I’m currently learning ... DSA in JAVA, Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Gmail - priyeshrai.delhi@gmail.com
 
