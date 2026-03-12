@@ -18,22 +18,22 @@
 ### 🛠️ Tech Stack
 
 **Cloud & DevOps**
-[![Cloud & DevOps](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,terragrunt,ansible,docker,kubernetes,linux,githubactions,prometheus,grafana&perline=11)](https://skillicons.dev)
+[![Cloud & DevOps](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,terragrunt,ansible,docker,kubernetes,linux,githubactions,prometheus,grafana&perline=7)](https://skillicons.dev)
 
 **Backend Development**
-[![Development](https://skillicons.dev/icons?i=java,spring,cpp,c&perline=11)](https://skillicons.dev)
+[![Development](https://skillicons.dev/icons?i=java,spring,cpp,c&perline=7)](https://skillicons.dev)
 
 **Frontend Development**
-[![Development](https://skillicons.dev/icons?i=js,html,css,react,angular&perline=11)](https://skillicons.dev)
+[![Development](https://skillicons.dev/icons?i=js,html,css,react,angular&perline=7)](https://skillicons.dev)
 
 **Database**
-[![Development](https://skillicons.dev/icons?i=redis,mysql,mongodb,postgresql&perline=11)](https://skillicons.dev)
+[![Development](https://skillicons.dev/icons?i=redis,mysql,mongodb,postgresql&perline=7)](https://skillicons.dev)
   
 **Data Science & Machine Learning**
-[![Machine Learning](https://skillicons.dev/icons?i=python,flask,tensorflow,matlab,sklearn&perline=11)](https://skillicons.dev)
+[![Machine Learning](https://skillicons.dev/icons?i=python,flask,tensorflow,matlab,sklearn&perline=7)](https://skillicons.dev)
 
 **Tools & Others**
-[![Tools](https://skillicons.dev/icons?i=git,postman&perline=11)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,postman&perline=7)](https://skillicons.dev)
 
 ---
 
