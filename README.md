@@ -17,11 +17,11 @@
 
 ### 🛠️ Tech Stack
 
-**Cloud & DevOps** /n
+**Cloud & DevOps**
 [![Cloud & DevOps](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,terragrunt,ansible,docker,kubernetes,linux,githubactions,prometheus,grafana&perline=7)](https://skillicons.dev)
 
 **Backend Development**
-[![Development](https://skillicons.dev/icons?i=java,spring,cpp,c&perline=7)](https://skillicons.dev)
+[![Development](https://skillicons.dev/icons?i=java,spring,cpp,c&perline=3)](https://skillicons.dev)
 
 **Frontend Development**
 [![Development](https://skillicons.dev/icons?i=js,html,css,react,angular&perline=7)](https://skillicons.dev)
