@@ -4,7 +4,6 @@
 </p>
 
 <h3 align="left">Final Year Undergrad at KIIT Bhubaneswar | Aspiring Software Developer</h3>
-
 ---
 
 ### 🚀 About Me
@@ -27,20 +26,6 @@
 
 **Tools & Others**
 [![Tools](https://skillicons.dev/icons?i=git,postman,react)](https://skillicons.dev)
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyesh-rai-011&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="priyesh-rai-011" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=priyesh-rai-011&show_icons=true&locale=en&theme=vision-friendly-dark" alt="priyesh-rai-011" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyesh-rai-011&theme=vision-friendly-dark" alt="priyesh-rai-011" />
-</p>
-
 ---
 
 ### 🤝 Connect with me:
