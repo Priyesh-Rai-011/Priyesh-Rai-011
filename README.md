@@ -17,12 +17,16 @@
 
 **Cloud & DevOps**
 - [![Cloud & DevOps](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible,docker,kubernetes,linux,githubactions)](https://skillicons.dev)
+
 **Backend Development**
 - [![Development](https://skillicons.dev/icons?i=java,spring,cpp,c)](https://skillicons.dev)
+
 **Frontend Development**
 - [![Development](https://skillicons.dev/icons?i=js,html,css,angular)](https://skillicons.dev)
+
 **Database**
-- [![Development](https://skillicons.dev/icons?i=mysql,mongodb,postgress)](https://skillicons.dev)  
+- [![Development](https://skillicons.dev/icons?i=mysql,mongodb,postgress)](https://skillicons.dev)
+  
 **Data Science & Machine Learning**
 - [![Machine Learning](https://skillicons.dev/icons?i=python,flask,tensorflow,matlab,sklearn)](https://skillicons.dev)
 
