@@ -17,7 +17,7 @@
 
 ### 🛠️ Tech Stack
 
-**Cloud & DevOps**
+**Cloud & DevOps**\n
 [![Cloud & DevOps](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,terragrunt,ansible,docker,kubernetes,linux,githubactions,prometheus,grafana&perline=7)](https://skillicons.dev)
 
 **Backend Development**
