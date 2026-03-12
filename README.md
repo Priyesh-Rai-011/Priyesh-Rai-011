@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Priyesh Rai</h1>
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=priyesh-rai-011&label=Profile%20views&color=0e75b6&style=flat" alt="priyesh-rai-011" />
-</p>
+</p> -->
 
 <h3 align="left">Final Year Undergrad at KIIT Bhubaneswar | Aspiring Software Developer</h3>
 ---
@@ -27,7 +27,7 @@
 [![Development](https://skillicons.dev/icons?i=js,html,css,react,angular&perline=11)](https://skillicons.dev)
 
 **Database**
-[![Development](https://skillicons.dev/icons?i=mysql,mongodb,postgresql&perline=11)](https://skillicons.dev)
+[![Development](https://skillicons.dev/icons?i=redis,mysql,mongodb,postgresql&perline=11)](https://skillicons.dev)
   
 **Data Science & Machine Learning**
 [![Machine Learning](https://skillicons.dev/icons?i=python,flask,tensorflow,matlab,sklearn&perline=11)](https://skillicons.dev)
