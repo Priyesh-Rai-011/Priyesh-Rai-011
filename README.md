@@ -26,7 +26,9 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Languages and Tools:</h3>
 
 ### ⚡ Tech Stack
+<!---
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,githubactions,python,java,spring,ansible,prometheus,grafana)](https://skillicons.dev)
+--->
 ---
 [![Cloude Hyperscalers : ](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
 ---
