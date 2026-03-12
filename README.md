@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Priyesh Rai</h1>
-<p align="center">
+<h1 align="left">Hi 👋, I'm Priyesh Rai</h1>
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=priyesh-rai-011&label=Profile%20views&color=0e75b6&style=flat" alt="priyesh-rai-011" />
 </p>
 
-<h3 align="center">Final Year Undergrad at KIIT Bhubaneswar | Aspiring Software Developer</h3>
+<h3 align="left">Final Year Undergrad at KIIT Bhubaneswar | Aspiring Software Developer</h3>
 
 ---
 
