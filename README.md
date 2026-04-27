@@ -60,35 +60,6 @@ Started as a Java/Spring Boot developer, discovered my love for infrastructure d
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔧 [deploy-tool-cli](https://github.com/PriyeshRaiMinfy/deploy-tool-cli)
-**Python CLI for automated AWS ECS deployments**
-- ⚡ Reduced deployment time from 15 minutes to 3 minutes (80% faster)
-- 🐳 Automates Docker builds, ECR pushes, and ECS Fargate deployments
-- 🔄 One-click rollback functionality
-- **Tech:** Python, Boto3, AWS (ECS, ECR, S3), Docker
-
-### ☁️ terraform-aws-modules *(Coming Soon)*
-**Production-ready Terraform modules for AWS infrastructure**
-- 📦 Reusable modules for VPC, EKS, RDS, S3
-- 🔒 Security best practices built-in
-- 🌍 Multi-environment support (Dev, Staging, Prod)
-
-### 🎯 [StegoSecure](https://github.com/yourusername/StegoSecure)
-**Web-based steganography & encryption tool**
-- 🔐 AES-128 encryption + LSB steganography
-- 🚀 Deployed on AWS ECS with Docker
-- 🌐 Spring Boot backend + responsive frontend
-- **Tech:** Java 17, Spring Boot 3, Docker, AWS ECS
-
-### 🔍 More Projects
-- **Kubernetes Production Configs:** Helm charts and manifests used in production
-- **CI/CD Pipeline Templates:** Jenkins & GitHub Actions workflows
-- **Monitoring Stack:** Prometheus + Grafana configurations
-
----
-
 ## 🤝 Let's Connect
 
 <p align="left">
