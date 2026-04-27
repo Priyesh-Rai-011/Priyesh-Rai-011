@@ -26,24 +26,6 @@ Started as a Java/Spring Boot developer, discovered my love for infrastructure d
 
 ---
 
-## 🏆 Certifications
-
-<div align="left">
-
-```yaml
-Cloud Certifications:
-  - ☁️ AWS Certified Solutions Architect - Associate (Nov 2025)
-  - ☁️ Google Cloud Associate Cloud Engineer (Mar 2026)
-
-Coming Soon:
-  - 🎯 HashiCorp Certified: Terraform Associate
-  - 🎯 Certified Kubernetes Administrator (CKA)
-```
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 ### Cloud & Infrastructure
@@ -107,48 +89,6 @@ Coming Soon:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 💼 Professional Journey
-2026 (Apr - Present)  → Associate DevOps Engineer @ Minfy Technologies
-2025 (Apr - Oct)      → DevOps Engineering Intern @ Minfy Technologies
-2021 - 2025           → B.Tech Computer Science @ KIIT University
-
----
-
-**Key Achievements:**
-- ✅ Converted from intern to full-time DevOps Engineer
-- ✅ Managing production EKS clusters with multi-AZ deployments
-- ✅ Earned AWS SA-A and GCP ACE certifications
-- ✅ Built automation tools reducing deployment time by 80%
-
----
-
-## 📈 Current Focus
-
-```python
-current_focus = {
-    "work": "Managing production AWS infrastructure & EKS clusters",
-    "learning": ["Advanced Kubernetes", "Terragrunt", "Service Mesh"],
-    "certifications": ["Terraform Associate", "CKA"],
-    "building": "Reusable IaC modules and CI/CD templates"
-}
-```
-
----
-
 ## 🤝 Let's Connect
 
 <p align="left">
@@ -175,7 +115,7 @@ current_focus = {
 
 ### 💭 Quote I Live By
 
-*"The best code is no code at all. The second best is automated code."*
+*"Nothing as per now...."*
 
 ---
 
