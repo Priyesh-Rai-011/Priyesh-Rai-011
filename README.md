@@ -3,11 +3,20 @@
 # Hi 👋, I'm Priyesh Rai
 
 ### Associate DevOps Engineer @ Minfy Technologies
-#### Building Scalable Cloud Infrastructure | AWS & GCP Certified | KIIT '25
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyesh-rai-88389b229/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:priyeshrai.delhi@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-280%2B%20Solved-orange?style=for-the-badge&logo=leetcode)](https://www.leetcode.com/user4377m)
+
+</div>
+
+
+<div align="center">
+
+# Priyesh Rai
+Associate DevOps Engineer @ Minfy Technologies 
+<br>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/priyesh-rai-88389b229/) [<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:priyeshrai.delhi@gmail.com) [<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" />](https://www.leetcode.com/user4377m)
 
 </div>
 
