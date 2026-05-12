@@ -73,17 +73,28 @@ Started as a Java/Spring Boot developer, discovered my love for infrastructure d
   <tr>
     <td><b>DevOps & Operations</b></td>
     <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,prometheus,grafana,nginx" height="25" /></td>
-    <td>Docker, K8s, Helm, Argo CD, Prometheus, Grafana</td>
+    <td>
+      **Containers:** Docker, Kubernetes, Helm, Kustomize.  
+      **CI/CD:** Jenkins, GitHub Actions, Argo CD.  
+      **Monitoring:** Prometheus, Grafana, Datadog, ELK Stack, CloudWatch
+    </td>
   </tr>
   <tr>
     <td><b>Development</b></td>
     <td><img src="https://skillicons.dev/icons?i=java,spring,python,bash,js,react" height="25" /></td>
-    <td>Java, Spring Boot, Python, Bash, React, JavaScript</td>
+    <td>
+      **Backend:** Java, Spring Boot, RESTful APIs, Python.  
+      **Frontend:** JavaScript, React, HTML/CSS.  
+      **Scripting:** Bash, Python (Boto3)
+    </td>
   </tr>
   <tr>
     <td><b>Databases</b></td>
     <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" height="25" /></td>
-    <td>MySQL, PostgreSQL, MongoDB, Redis</td>
+    <td>
+      **SQL:** MySQL, PostgreSQL.  
+      **NoSQL:** MongoDB, Redis
+    </td>
   </tr>
 </table>
 
