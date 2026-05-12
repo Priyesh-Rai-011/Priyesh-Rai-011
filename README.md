@@ -10,18 +10,15 @@
 
 </div>
 
----
-
 ## 🚀 About Me
 
-I'm a DevOps Engineer passionate about **cloud automation**, **container orchestration**, and **CI/CD pipelines**. 
+I'm a DevOps Engineer passionate about **Kubernetes**, **Cloud Operations**, **System Design**, **Backend Development**, **Java SpringBoot**, and **CI/CD pipelines**. 
 
-Started as a Java/Spring Boot developer, discovered my love for infrastructure during an internship, and now I build production systems at scale.
+Started as a Java/Spring Boot developer, discovered my interest for Cloud infrastructure during an internship, and now I build production systems at scale.
 
 - 🔭 Currently working on: **Managing production EKS clusters and automating AWS infrastructure with Terraform**
-- 🌱 Learning: **Advanced Kubernetes patterns, Terragrunt, and GitOps with Argo CD**
+- 🌱 Learning: **Advanced Kubernetes patterns with GitOps & Argo CD**
 - 💬 Ask me about: **AWS, Kubernetes, Docker, Terraform, CI/CD, Java, Spring Boot**
-- ⚡ Fun fact: **Consistency beats talent every single time** (and automation beats manual work every time!)
 
 ---
 
@@ -30,7 +27,7 @@ Started as a Java/Spring Boot developer, discovered my love for infrastructure d
 <table>
   <tr>
     <td valign="top"><b>Cloud & Infrastructure</b></td>
-    <td valign="top"><img src="https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,linux" height="30" /></td>
+    <td valign="top"><img src="https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,linux" height="40" /></td>
     <td>
       <b>AWS:</b> EKS, ECS, EC2, VPC, RDS, S3, Lambda, CloudWatch, IAM.<br>
       <b>GCP:</b> GKE, Cloud Functions, IAM, VPC.<br>
@@ -39,7 +36,7 @@ Started as a Java/Spring Boot developer, discovered my love for infrastructure d
   </tr>
   <tr>
     <td valign="top"><b>DevOps & Operations</b></td>
-    <td valign="top"><img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,prometheus,grafana,nginx" height="30" /></td>
+    <td valign="top"><img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,prometheus,grafana,nginx" height="40" /></td>
     <td>
       <b>Containers:</b> Docker, Kubernetes, Helm, Kustomize.<br>
       <b>CI/CD:</b> Jenkins, GitHub Actions, Argo CD.<br>
@@ -48,7 +45,7 @@ Started as a Java/Spring Boot developer, discovered my love for infrastructure d
   </tr>
   <tr>
     <td valign="top"><b>Development</b></td>
-    <td valign="top"><img src="https://skillicons.dev/icons?i=java,spring,python,bash,js,react" height="30" /></td>
+    <td valign="top"><img src="https://skillicons.dev/icons?i=java,spring,python,bash,js,react" height="40" /></td>
     <td>
       <b>Backend:</b> Java, Spring Boot, RESTful APIs, Python.<br>
       <b>Frontend:</b> JavaScript, React, HTML/CSS.<br>
@@ -57,7 +54,7 @@ Started as a Java/Spring Boot developer, discovered my love for infrastructure d
   </tr>
   <tr>
     <td valign="top"><b>Databases</b></td>
-    <td valign="top"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" height="30" /></td>
+    <td valign="top"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" height="40" /></td>
     <td>
       <b>SQL:</b> MySQL, PostgreSQL.<br>
       <b>NoSQL:</b> MongoDB, Redis
@@ -66,6 +63,13 @@ Started as a Java/Spring Boot developer, discovered my love for infrastructure d
 </table>
 
 
+## 📂 Featured Projects
+
+- [**Project Verbal**](https://github.com/priyesh-rai/verbal-aws-apps) – Orchestrating production migrations and automated application deployments using **ArgoCD** and **EKS**.
+- [**MLOps & RAG Pipeline**](https://github.com/priyesh-rai/mlops-toolkit) – Building infrastructure for LLM evaluation and vector database integration using **Qdrant** and **Python**.
+- [**IaC Automation Suite**](https://github.com/priyesh-rai/terraform-modules) – Standardizing multi-environment AWS infrastructure provisioning with modular **Terraform** and **Terragrunt**.
+- [**EKS Cluster Management**](https://github.com/priyesh-rai/eks-config) – Implementing production-grade Kubernetes patterns, including pod identity associations and automated scaling.
+
 ---
 
 ## 🤝 Let's Connect
@@ -73,9 +77,10 @@ Started as a Java/Spring Boot developer, discovered my love for infrastructure d
 <p align="left">
 <a href="https://www.linkedin.com/in/priyesh-rai-88389b229/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35" /></a>
 <a href="mailto:priyeshrai.delhi@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="35" /></a>
-<a href="https://www.leetcode.com/user4377m" target="blank"><img src="https://skillicons.dev/icons?i=leetcode" height="35" /></a>
+<!-- <a href="https://www.leetcode.com/user4377m" target="blank"><img src="https://skillicons.dev/icons?i=leetcode" height="35" /></a> -->
 <a href="https://stackoverflow.com/users/19905960" target="blank"><img src="https://skillicons.dev/icons?i=stackoverflow" height="35" /></a>
 <a href="https://instagram.com/_priyesh_rai_07" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="35" /></a>
+<a href="https://www.leetcode.com/user4377m" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35" width="35" style="vertical-align:middle" /></a>
 </p>
 
 ---
