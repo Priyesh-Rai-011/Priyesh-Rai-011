@@ -62,38 +62,38 @@ Started as a Java/Spring Boot developer, discovered my love for infrastructure d
 
 <table>
   <tr>
-    <td><b>Cloud & Infrastructure</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,linux" height="25" /></td>
-    <td>  
-      **AWS:** EKS, ECS, EC2, VPC, RDS, S3, Lambda, CloudWatch, IAM.  
-      **GCP:** GKE, Cloud Functions, IAM, VPC.  
-      **IaC:** Terraform, Terragrunt, Ansible.
+    <td valign="top"><b>Cloud & Infrastructure</b></td>
+    <td valign="top"><img src="https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,linux" height="30" /></td>
+    <td>
+      <b>AWS:</b> EKS, ECS, EC2, VPC, RDS, S3, Lambda, CloudWatch, IAM.<br>
+      <b>GCP:</b> GKE, Cloud Functions, IAM, VPC.<br>
+      <b>IaC:</b> Terraform, Terragrunt, Ansible.
     </td>
   </tr>
   <tr>
-    <td><b>DevOps & Operations</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,prometheus,grafana,nginx" height="25" /></td>
+    <td valign="top"><b>DevOps & Operations</b></td>
+    <td valign="top"><img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,prometheus,grafana,nginx" height="30" /></td>
     <td>
-      **Containers:** Docker, Kubernetes, Helm, Kustomize.  
-      **CI/CD:** Jenkins, GitHub Actions, Argo CD.  
-      **Monitoring:** Prometheus, Grafana, Datadog, ELK Stack, CloudWatch
+      <b>Containers:</b> Docker, Kubernetes, Helm, Kustomize.<br>
+      <b>CI/CD:</b> Jenkins, GitHub Actions, Argo CD.<br>
+      <b>Monitoring:</b> Prometheus, Grafana, Datadog, ELK Stack, CloudWatch
     </td>
   </tr>
   <tr>
-    <td><b>Development</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,python,bash,js,react" height="25" /></td>
+    <td valign="top"><b>Development</b></td>
+    <td valign="top"><img src="https://skillicons.dev/icons?i=java,spring,python,bash,js,react" height="30" /></td>
     <td>
-      **Backend:** Java, Spring Boot, RESTful APIs, Python.  
-      **Frontend:** JavaScript, React, HTML/CSS.  
-      **Scripting:** Bash, Python (Boto3)
+      <b>Backend:</b> Java, Spring Boot, RESTful APIs, Python.<br>
+      <b>Frontend:</b> JavaScript, React, HTML/CSS.<br>
+      <b>Scripting:</b> Bash, Python (Boto3)
     </td>
   </tr>
   <tr>
-    <td><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" height="25" /></td>
+    <td valign="top"><b>Databases</b></td>
+    <td valign="top"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" height="30" /></td>
     <td>
-      **SQL:** MySQL, PostgreSQL.  
-      **NoSQL:** MongoDB, Redis
+      <b>SQL:</b> MySQL, PostgreSQL.<br>
+      <b>NoSQL:</b> MongoDB, Redis
     </td>
   </tr>
 </table>
