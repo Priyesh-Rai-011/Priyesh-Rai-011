@@ -71,21 +71,11 @@ Started as a Java/Spring Boot developer, discovered my love for infrastructure d
 ## 🤝 Let's Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/priyesh-rai-88389b229/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
-</a>
-<a href="mailto:priyeshrai.delhi@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="40" width="50" />
-</a>
-<a href="https://www.leetcode.com/user4377m" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50" />
-</a>
-<a href="https://stackoverflow.com/users/19905960" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="40" width="50" />
-</a>
-<a href="https://instagram.com/_priyesh_rai_07" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" />
-</a>
+<a href="https://www.linkedin.com/in/priyesh-rai-88389b229/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35" /></a>
+<a href="mailto:priyeshrai.delhi@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="35" /></a>
+<a href="https://www.leetcode.com/user4377m" target="blank"><img src="https://skillicons.dev/icons?i=leetcode" height="35" /></a>
+<a href="https://stackoverflow.com/users/19905960" target="blank"><img src="https://skillicons.dev/icons?i=stackoverflow" height="35" /></a>
+<a href="https://instagram.com/_priyesh_rai_07" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="35" /></a>
 </p>
 
 ---
