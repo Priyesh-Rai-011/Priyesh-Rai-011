@@ -60,6 +60,32 @@ Started as a Java/Spring Boot developer, discovered my love for infrastructure d
 
 ---
 
+<table>
+  <tr>
+    <td><b>Cloud & IaC</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,linux" height="25" /></td>
+    <td>AWS, GCP, Terraform, Terragrunt, Ansible, Linux</td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,prometheus,grafana,nginx" height="25" /></td>
+    <td>Docker, K8s, Helm, Argo CD, Prometheus, Grafana</td>
+  </tr>
+  <tr>
+    <td><b>Development</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,python,bash,js,react" height="25" /></td>
+    <td>Java, Spring Boot, Python, Bash, React, JavaScript</td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" height="25" /></td>
+    <td>MySQL, PostgreSQL, MongoDB, Redis</td>
+  </tr>
+</table>
+
+
+---
+
 ## 🤝 Let's Connect
 
 <p align="left">
