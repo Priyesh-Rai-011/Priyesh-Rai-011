@@ -62,12 +62,16 @@ Started as a Java/Spring Boot developer, discovered my love for infrastructure d
 
 <table>
   <tr>
-    <td><b>Cloud & IaC</b></td>
+    <td><b>Cloud & Infrastructure</b></td>
     <td><img src="https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,linux" height="25" /></td>
-    <td>AWS, GCP, Terraform, Terragrunt, Ansible, Linux</td>
+    <td>
+      **AWS:** EKS, ECS, EC2, VPC, RDS, S3, Lambda, CloudWatch, IAM  
+      **GCP:** GKE, Cloud Functions, IAM, VPC  
+      **IaC:** Terraform, Terragrunt, Ansible
+    </td>
   </tr>
   <tr>
-    <td><b>DevOps</b></td>
+    <td><b>DevOps & Operations</b></td>
     <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,prometheus,grafana,nginx" height="25" /></td>
     <td>Docker, K8s, Helm, Argo CD, Prometheus, Grafana</td>
   </tr>
