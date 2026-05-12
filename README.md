@@ -28,38 +28,6 @@ Started as a Java/Spring Boot developer, discovered my love for infrastructure d
 
 ## 🛠️ Tech Stack
 
-### Cloud & Infrastructure
-[![Cloud & DevOps](https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,linux&perline=10)](https://skillicons.dev)
-
-**AWS:** EKS, ECS, EC2, VPC, RDS, S3, Lambda, CloudWatch, IAM  
-**GCP:** GKE, Cloud Functions, IAM, VPC  
-**IaC:** Terraform, Terragrunt, Ansible
-
-### DevOps & Orchestration
-[![DevOps Tools](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,prometheus,grafana,nginx&perline=10)](https://skillicons.dev)
-
-**Containers:** Docker, Kubernetes, Helm, Kustomize  
-**CI/CD:** Jenkins, GitHub Actions, Argo CD  
-**Monitoring:** Prometheus, Grafana, Datadog, ELK Stack, CloudWatch
-
-### Development
-[![Development](https://skillicons.dev/icons?i=java,spring,python,bash,javascript,react&perline=10)](https://skillicons.dev)
-
-**Backend:** Java, Spring Boot, RESTful APIs, Python  
-**Frontend:** JavaScript, React, HTML/CSS  
-**Scripting:** Bash, Python (Boto3)
-
-### Databases
-[![Databases](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&perline=10)](https://skillicons.dev)
-
-**SQL:** MySQL, PostgreSQL  
-**NoSQL:** MongoDB, Redis
-
-### Tools & Others
-[![Tools](https://skillicons.dev/icons?i=git,postman,vscode&perline=10)](https://skillicons.dev)
-
----
-
 <table>
   <tr>
     <td valign="top"><b>Cloud & Infrastructure</b></td>
