@@ -3,14 +3,11 @@
 <img width="723" height="198" alt="Image" src="https://github.com/user-attachments/assets/526e6bbb-ccd2-4827-9310-7be655c87060" />
 
 ### Associate DevOps Engineer @ Minfy Technologies
-
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/priyesh-rai-88389b229/) 
 [<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:priyeshrai.delhi@gmail.com) 
 [<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" />](https://www.leetcode.com/user4377m)
 
 </div>
-
-## 🚀 About Me
 
 I'm a DevOps Engineer passionate about **Kubernetes**, **Cloud Operations**, **System Design**, **Backend Development**, **Java SpringBoot**, and **CI/CD pipelines**. 
 
@@ -26,8 +23,8 @@ Started as a Java/Spring Boot developer, discovered my interest for Cloud infras
 
 <table>
   <tr>
-    <td valign="top"><b>Cloud & Infrastructure</b></td>
-    <td valign="top"><img src="https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,linux" height="40" /></td>
+    <td valign="center"><b>Cloud & Infrastructure</b></td>
+    <td valign="center"><img src="https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,linux" height="40" /></td>
     <td>
       <b>AWS:</b> EKS, ECS, EC2, VPC, RDS, S3, Lambda, CloudWatch, IAM.<br>
       <b>GCP:</b> GKE, Cloud Functions, IAM, VPC.<br>
@@ -35,8 +32,8 @@ Started as a Java/Spring Boot developer, discovered my interest for Cloud infras
     </td>
   </tr>
   <tr>
-    <td valign="top"><b>DevOps & Operations</b></td>
-    <td valign="top"><img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,prometheus,grafana,nginx" height="40" /></td>
+    <td valign="center"><b>DevOps & Operations</b></td>
+    <td valign="center"><img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,prometheus,grafana,nginx" height="40" /></td>
     <td>
       <b>Containers:</b> Docker, Kubernetes, Helm, Kustomize.<br>
       <b>CI/CD:</b> Jenkins, GitHub Actions, Argo CD.<br>
@@ -44,8 +41,8 @@ Started as a Java/Spring Boot developer, discovered my interest for Cloud infras
     </td>
   </tr>
   <tr>
-    <td valign="top"><b>Development</b></td>
-    <td valign="top"><img src="https://skillicons.dev/icons?i=java,spring,python,bash,js,react" height="40" /></td>
+    <td valign="center"><b>Development</b></td>
+    <td valign="center"><img src="https://skillicons.dev/icons?i=java,spring,python,bash,js,react" height="40" /></td>
     <td>
       <b>Backend:</b> Java, Spring Boot, RESTful APIs, Python.<br>
       <b>Frontend:</b> JavaScript, React, HTML/CSS.<br>
