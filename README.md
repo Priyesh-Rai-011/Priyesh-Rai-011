@@ -69,19 +69,6 @@ Started as a Java/Spring Boot developer, discovered my interest for Cloud infras
 
 ---
 
-## 🤝 Let's Connect
-
-<p align="left">
-<a href="https://www.linkedin.com/in/priyesh-rai-88389b229/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35" /></a>
-<a href="mailto:priyeshrai.delhi@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="35" /></a>
-<!-- <a href="https://www.leetcode.com/user4377m" target="blank"><img src="https://skillicons.dev/icons?i=leetcode" height="35" /></a> -->
-<a href="https://stackoverflow.com/users/19905960" target="blank"><img src="https://skillicons.dev/icons?i=stackoverflow" height="35" /></a>
-<a href="https://instagram.com/_priyesh_rai_07" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="35" /></a>
-<a href="https://www.leetcode.com/user4377m" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35" width="35" style="vertical-align:middle" /></a>
-</p>
-
----
-
 <div align="center">
 
 ### 💭 Quote I Live By
